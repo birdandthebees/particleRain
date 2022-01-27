@@ -3,8 +3,8 @@
 An animation created in JavaScript using pixels across the canvas
 
 
-##You can see this project live here:
+## You can see this project live here:
 
-###[Particle_Rain_Effect](https://birdandthebees.github.io/particleRain/)
+### [Particle_Rain_Effect](https://birdandthebees.github.io/particleRain/)
 
 
