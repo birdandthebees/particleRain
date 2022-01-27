@@ -1,6 +1,6 @@
 
 
-# An animation created in JavaScript using pixels across the canvas.
+An animation created in JavaScript using pixels across the canvas.
 
 
 ## You can see this project live here:
